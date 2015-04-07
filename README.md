@@ -11,6 +11,7 @@ $ brew install git-switch
 ## Upgrade git-switch
 
 ```
+$ brew update
 $ brew upgrade git-switch
 ```
 
