@@ -1,8 +1,8 @@
 class GitSwitch < Formula
   homepage "https://github.com/san650/git-switch"
-  url "https://github.com/san650/git-switch/archive/v0.2.tar.gz"
-  version "0.2"
-  sha256 "5b7d7d77dc71f9b7211234c8dcf313111749ab22f7fed0943bbc61bade878f6d"
+  url "https://github.com/san650/git-switch/archive/v0.3.tar.gz"
+  version "0.3"
+  sha256 "c47a39ac7165276deb86d1bedda4dc29d4b08e11419566b379066fd670e91f04"
 
   def install
     bin.mkpath
